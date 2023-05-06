@@ -1,0 +1,20 @@
+.MIS{
+    text-align: center;
+    padding: 1%;
+}
+.NUES{
+    text-align: center;
+    padding: 1%;
+    
+}
+.card-group{
+    text-align: center;
+    gap: 3%;
+    justify-content: space-evenly;
+    margin: 5%;
+    
+}
+.body{
+    background-color: rgb(244, 215, 127);
+}
+
